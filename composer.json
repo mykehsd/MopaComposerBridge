@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Mopa\\Bridge\\Composer": "src/"
+            "Mopa\\Bridge\\Composer": "Mopa/Bridge/Composer/src/"
         }
     }
 }
